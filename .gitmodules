@@ -1,0 +1,12 @@
+[submodule "3rdparty/LeanTween"]
+	path = 3rdparty/LeanTween
+	url = https://github.com/dentedpixel/LeanTween.git
+[submodule "3rdparty/UniRx"]
+	path = 3rdparty/UniRx
+	url = https://github.com/neuecc/UniRx.git
+[submodule "3rdparty/FullSerializer"]
+	path = 3rdparty/FullSerializer
+	url = https://github.com/jacobdufault/fullserializer.git
+[submodule "3rdparty/NLayer"]
+	path = 3rdparty/NLayer
+	url = https://github.com/naudio/NLayer.git
